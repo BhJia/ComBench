@@ -1,4 +1,4 @@
-1. # CompBench Evaluation Guide
+ # CompBench Evaluation Guide
 
    CompBench is a comprehensive benchmark dataset for evaluating image editing model performance. This guide will help you quickly get started with using CompBench for model evaluation.
 
